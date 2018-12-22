@@ -10,7 +10,8 @@ Setting repeating timer
  
  
  Google Play Store Link:
- - https://play.google.com/store/apps/details?id=com.mp.buzr 
+ - https://play.google.com/store/apps/details?id=com.mp.buzr <br/>
+ 
  Screenshots below: 
 
 ![1](https://github.com/pandyama/Buzr-Flutter-App/blob/master/CaptureNew1.PNG)
